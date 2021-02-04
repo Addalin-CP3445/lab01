@@ -1,12 +1,17 @@
 Answer the following, add your answer below each question:
 Q1) Copy and paste the ID of the commit that caused the bug (fast shooting)?
-
+Ans: 4ebf2fd
 
 Q2) Copy and paste the line(s) of code you expect to have caused the bug? 
 
+for (var i = 0; i < 100; i++) {
+    var bull = new Bullet();
+    ship.bullets.push(bull);
+    sprites.push(bull);
+  }
 
 Q3) Fix the bug and commit your changes of this fix on the master branch? Paste the commit ID below.
-
+Ans: 0b10b9bc561008d210268691ca2468459997c11d
 
 Q4) Copy and paste the name of the developer who has been recently working on the coins branch.
 
