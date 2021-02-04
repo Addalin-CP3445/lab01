@@ -14,5 +14,5 @@ Q3) Fix the bug and commit your changes of this fix on the master branch? Paste 
 Ans: 0b10b9bc561008d210268691ca2468459997c11d
 
 Q4) Copy and paste the name of the developer who has been recently working on the coins branch.
-
+Ans: Sarah Spikes <sarah@udacity.com>
 
